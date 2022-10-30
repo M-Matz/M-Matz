@@ -1,4 +1,13 @@
-### Hi there 👋
+### Olá! Meu nome é Maicon, 👋
+
+ 👀 Tenho interesse nas áreas de Perfuração, Ciência de Dados, Machine Learning, Petrofísica, ERD, Transmissão em tempo real WITSML, OSDU (Open Subsurface Data Universe).
+ 
+ 🔭 Atualmente trabalho com Analise de Dados de Perfuração, Avaliação de Formações, Transmissão de Dados em Tempo Real - WITSML
+ 
+ 🌱 Estou aprendendo Big Data, Machine Learning, e agora terei 2 modulos de Analise de Series Temporais e Deep Learning. 
+ 
+ 📫 Você pode entrar em contato comigo pelo meu linkedin: https://www.linkedin.com/in/maicon-matzaraujo/
+
 
 <!--
 **M-Matz/M-Matz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
